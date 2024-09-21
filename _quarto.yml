@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "**aspiR**"
+  
+  navbar: 
+    search: true
+    tools:
+    - icon: youtube
+      menu:
+        - text: "`aspiR` YouTube Channel"
+          url: https://www.youtube.com/
+    - icon: github
+      menu:
+        - text: "`aspiR` GitHub Organisation"
+          url: 
+        - text: "`aspiR` Quarto Website"
+          url: 
+        - text: "`aspiR` r Package"
+          url: 
+          
+  sidebar:
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: references.qmd
+        text: References
+      - section: Tutorials
+        contents: 
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

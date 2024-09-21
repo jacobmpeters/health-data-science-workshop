@@ -1,0 +1,34 @@
+---
+title: "`aspiR`: Aspirational R Programming"
+subtitle: An informal workshop for health data professionals
+---
+
+`aspiR` was started by a group of like-minded health data professionals that aspire to right better R code. R programmers at **ANY skill-level** are welcome to attend or contribute to a workshop or tutorial.
+
+# Objectives:
+
+- **Teach each other:** Hold regular workshops that are led by members and/or invitees
+- **Produce resources:** Preserve videos, tutorials and code resources from workshops on this resource page
+- **Network:** Build a community of like-minded folks across agencies, universities & companies
+
+# Focus:
+
+- Best practices for writing **robust**, **reproducible**, and **readable** R code
+- Tips and tricks for productivity 
+- Integration with cloud computing resources and data sources
+- Optimization for big data
+- Integrating R and SQL 
+- Emerging topics in health data science
+
+# Future workshop topics:
+functional programming, `renv`, GitHub, Docker, pipelines, Style Guides, 
+developing R packages, publishing data products, RStudio Snippets, `linter`, 
+`styler`, `rshiny`, `rix`, SQL & R, Quarto, Quarto Websites, Quarto Dashboards, 
+`plumber` APIs, data structures, JSON in R, mermaid diagrams,
+... 
+
+> You tell us what's next!
+
+# Previous workshop topics: 
+> Let's build this list in together!
+
