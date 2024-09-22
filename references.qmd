@@ -4,7 +4,7 @@ title: References
 
 ## Recommended books:
 
--   [Building reproducible analytical pipelines with R](https://raps-with-r.dev/repro_cont.html) \~ Bruno Rodrigues
+-   [Building reproducible analytical pipelines with R](https://raps-with-r.dev/) \~ Bruno Rodrigues
 
 -   [Advanced R](https://adv-r.hadley.nz/) \~ Hadley Wickham
 

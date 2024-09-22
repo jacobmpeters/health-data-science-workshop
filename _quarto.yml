@@ -13,7 +13,7 @@ website:
           url: https://www.youtube.com/
     - icon: github
       menu:
-        - text: "`aspiR` GitHub Organisation"
+        - text: "`aspiR` GitHub Organization"
           url: 
         - text: "`aspiR` Quarto Website"
           url: 
